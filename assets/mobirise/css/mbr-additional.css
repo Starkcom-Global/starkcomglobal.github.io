@@ -5213,6 +5213,47 @@ section.lazy-placeholder:after {
 .cid-tVsyljlUC0 LABEL {
   color: #cfcfcf;
 }
+.cid-u2r1fT4eLI {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-u2r1fT4eLI .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u2r1fT4eLI .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-u2r1fT4eLI ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-u2r1fT4eLI li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-u2r1fT4eLI ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #232323;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-u2r1fT4eLI H3 {
+  color: #000000;
+}
+.cid-u2r1fT4eLI .list {
+  color: #000000;
+}
 .cid-tXJ00eOTaI {
   padding-top: 60px;
   padding-bottom: 60px;
